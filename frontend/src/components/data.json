@@ -1,0 +1,234 @@
+{
+    "totalQuestionsSolved": 278,
+    "totalActiveDays": 49,
+    "totalContests": {
+      "leetcode": 0,
+      "codechef": 22,
+      "gfg": 0,
+      "codeforces": 0
+    },
+    "difficultyBreakdown": {
+      "easy": 132,
+      "medium": 126,
+      "hard": 20
+    },
+    "ratingGraph": {
+      "leetcode": {},
+      "codechef": [
+        {
+          "code": "START109D",
+          "getyear": "2023",
+          "getmonth": "11",
+          "getday": "22",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1096",
+          "rank": "7343",
+          "name": "Starters 109 Division 4 (Rated)",
+          "end_date": "2023-11-22 22:00:06",
+          "color": "#666666"
+        },
+        {
+          "code": "START110D",
+          "getyear": "2023",
+          "getmonth": "11",
+          "getday": "29",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1295",
+          "rank": "2784",
+          "name": "Starters 110 Divison 4 (Rated)",
+          "end_date": "2023-11-29 22:00:06",
+          "color": "#666666"
+        }
+      ],
+      "codeforces": {}
+    },
+    "activityHeatmap": {
+      "1721779200": 4,
+      "1721865600": 2,
+      "1721952000": 3,
+      "1722038400": 1,
+      "1722124800": 1,
+      "1722211200": 3      
+    },
+    "platformData": {
+      "leetcode": {
+        "totalSolved": 118,
+        "totalSubmissions": [
+          {
+            "difficulty": "All",
+            "count": 123,
+            "submissions": 208
+          },
+          {
+            "difficulty": "Easy",
+            "count": 80,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Medium",
+            "count": 41,
+            "submissions": 74
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ],
+        "totalQuestions": 3337,
+        "easySolved": 78,
+        "totalEasy": 831,
+        "mediumSolved": 38,
+        "totalMedium": 1746,
+        "hardSolved": 2,
+        "totalHard": 760,
+        "ranking": 877532,
+        "contributionPoint": 480,
+        "reputation": 0,
+        "submissionCalendar": {
+          "1707436800": 5,
+          "1707955200": 1,
+          "1708041600": 8,
+          "1708214400": 1
+        },
+        "recentSubmissions": [
+          {
+            "title": "Vertical Order Traversal of a Binary Tree",
+            "titleSlug": "vertical-order-traversal-of-a-binary-tree",
+            "timestamp": "1728063545",
+            "statusDisplay": "Accepted",
+            "lang": "cpp",
+            "__typename": "SubmissionDumpNode"
+          },
+          {
+            "title": "Divide Players Into Teams of Equal Skill",
+            "titleSlug": "divide-players-into-teams-of-equal-skill",
+            "timestamp": "1728059981",
+            "statusDisplay": "Accepted",
+            "lang": "cpp",
+            "__typename": "SubmissionDumpNode"
+          }
+        ],
+        "matchedUserStats": {
+          "acSubmissionNum": [
+            {
+              "difficulty": "All",
+              "count": 118,
+              "submissions": 158
+            },
+            {
+              "difficulty": "Easy",
+              "count": 78,
+              "submissions": 101
+            },
+            {
+              "difficulty": "Medium",
+              "count": 38,
+              "submissions": 55
+            },
+            {
+              "difficulty": "Hard",
+              "count": 2,
+              "submissions": 2
+            }
+          ],
+          "totalSubmissionNum": [
+            {
+              "difficulty": "All",
+              "count": 123,
+              "submissions": 208
+            },
+            {
+              "difficulty": "Easy",
+              "count": 80,
+              "submissions": 132
+            },
+            {
+              "difficulty": "Medium",
+              "count": 41,
+              "submissions": 74
+            },
+            {
+              "difficulty": "Hard",
+              "count": 2,
+              "submissions": 2
+            }
+          ]
+        }
+      },
+      "codechef": {
+        "success": true,
+        "status": 200,
+        "profile": "https://cdn.codechef.com/sites/all/themes/abessive/images/user_default_thumb.jpg",
+        "name": "divyansh_k22",
+        "currentRating": 1296,
+        "highestRating": 1313,
+        "countryFlag": "https://cdn.codechef.com/download/flags/24/in.png",
+        "countryName": "India",
+        "globalRank": 67470,
+        "countryRank": 62535,
+        "stars": "1★",
+        "heatMap": [
+          {
+            "date": "2024-5-8",
+            "value": 34
+          },
+          {
+            "date": "2024-5-15",
+            "value": 6
+          }
+        ],
+        "ratingData": [
+          {
+            "code": "START109D",
+            "getyear": "2023",
+            "getmonth": "11",
+            "getday": "22",
+            "reason": null,
+            "penalised_in": null,
+            "rating": "1096",
+            "rank": "7343",
+            "name": "Starters 109 Division 4 (Rated)",
+            "end_date": "2023-11-22 22:00:06",
+            "color": "#666666"
+          },
+          {
+            "code": "START110D",
+            "getyear": "2023",
+            "getmonth": "11",
+            "getday": "29",
+            "reason": null,
+            "penalised_in": null,
+            "rating": "1295",
+            "rank": "2784",
+            "name": "Starters 110 Divison 4 (Rated)",
+            "end_date": "2023-11-29 22:00:06",
+            "color": "#666666"
+          }
+        ]
+      },
+      "gfg": {
+        "status": "success",
+        "InstituteRank": "63",
+        "TotalSolve": 160,
+        "Consistency": "49  /1183",
+        "TotalEasy": 54,
+        "TotalMedium": 88,
+        "TotalHard": 18
+      },
+      "codeforces": {
+        "status": "success",
+        "data": {
+          "username": "divyanshkumbha",
+          "totalSolved": 6,
+          "totalSubmissions": 15,
+          "easySolved": 15,
+          "mediumSolved": 0,
+          "hardSolved": 0,
+          "contributionPoints": 0
+        }
+      }
+    }
+  }

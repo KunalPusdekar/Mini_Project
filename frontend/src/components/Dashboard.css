@@ -1,0 +1,54 @@
+/* Dashboard.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background: #F0F4F8;
+    min-height: 100vh;
+  }
+  
+  .main-container {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    max-width: 1200px;
+    margin-top: 20px;
+  }
+  
+  .profile-section,
+  .stats-section,
+  .side-section {
+    padding: 20px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-section {
+    width: 18%;
+    text-align: center;
+  }
+  
+  .stats-section {
+    width: 58%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .side-section {
+    width: 20%;
+  }
+  
+  .card {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: #EFF6FF;
+  }
+ 
+  
+  
